@@ -1,6 +1,6 @@
 # Restaurante API
 
-[![CI](https://github.com/teeagohenrique/Restaurante-Projeto-Next/actions/workflows/ci.yml/badge.svg)](https://github.com/teeagohenrique/Restaurante-Projeto-Next/actions/workflows/ci.yml)
+[![CI](https://github.com/teeagohenrique/restaurante-api/actions/workflows/ci.yml/badge.svg)](https://github.com/teeagohenrique/restaurante-api/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-11-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.18-6DB33F?logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.8+-C71A36?logo=apachemaven&logoColor=white)
@@ -164,3 +164,9 @@ src/test/java/com/example/restaurante/
 ## Autor
 
 [Thiago Henrique](https://github.com/teeagohenrique)
+
+---
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
