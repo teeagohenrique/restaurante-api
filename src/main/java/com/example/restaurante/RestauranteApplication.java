@@ -1,13 +1,13 @@
-package com.example.desafio;
+package com.example.restaurante;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DesafioApplication {
+public class RestauranteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DesafioApplication.class, args);
+		SpringApplication.run(RestauranteApplication.class, args);
 	}
 
 }

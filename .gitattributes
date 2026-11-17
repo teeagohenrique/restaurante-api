@@ -1,0 +1,12 @@
+# Mantém o wrapper executável e com LF no Linux/macOS.
+mvnw text eol=lf
+*.sh text eol=lf
+mvnw.cmd text eol=crlf
+
+# Arquivos Java e de configuração com LF.
+*.java text eol=lf
+*.xml text eol=lf
+*.properties text eol=lf
+*.sql text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
